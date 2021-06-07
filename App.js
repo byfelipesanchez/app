@@ -11,6 +11,8 @@ export default function App() {
   );
 }
 
+//https://reactnative.dev/docs/style
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
